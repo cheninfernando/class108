@@ -1,0 +1,55 @@
+body{
+    font-family: 'Shantell Sans';
+    background: linear-gradient(to bottom right,rgb(255, 100, 137),rgb(192, 242, 255), rgb(215, 136, 255))
+}
+
+.header_div{
+    background:white;
+    color:black;
+
+}
+
+.header_div p{
+    font-family: "Roboto", sans-serif;
+    color: rgb(255, 0, 242);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: "Roboto", sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+    background-color: rgb(77, 193, 255) !important;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    font-size:18px;
+    background-color:white;
+    text-align:center;
+    text-shadow:5px 5px 5px rgb(255, 116, 230);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
